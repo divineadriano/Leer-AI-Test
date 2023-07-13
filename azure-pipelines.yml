@@ -7,7 +7,7 @@ trigger:
 - main
 
 #Environment Name
-environment: Leer AI Test
+environmentName: Leer AI Test
 
 pool:
   vmImage: ubuntu-latest
